@@ -3,7 +3,8 @@
 ![CS50 Duck Debugger](<images/CS50 Duck Debugger.png>)
 
 ---
-## To play the game, run `Hangman.exe`
+### To play the game, download and run `Hangman.exe`.
+### To download `Hangman.exe` click [here](https://github.com/DanielDekhtyar/Hangman-with-Pygame/raw/main/Hangman.exe).
 
 ### _This is my final project for the [CS50P course](https://cs50.harvard.edu/python/2022/) at Harvard Online_
 
