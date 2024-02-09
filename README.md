@@ -6,11 +6,20 @@
 ### To play the game, download and run `Hangman.exe`.
 ### To download `Hangman.exe` click [here](https://github.com/DanielDekhtyar/Hangman-with-Pygame/raw/main/Hangman.exe).
 
+---
+
 ### _This is my final project for the [CS50P course](https://cs50.harvard.edu/python/2022/) at Harvard Online_
 
 ### _You can find the final project instructions [here](https://cs50.harvard.edu/python/2022/project/)_
 
 ### _The original repository is [here](https://github.com/DanielDekhtyar/CS50P/tree/main/Final%20Project)_
+
+### _Certificate of completion from Harvard_
+The original certificate can be found [here](https://cs50.harvard.edu/certificates/5692f40f-e31a-4920-9fa8-6b08e453c98a)  
+
+![CS50P](https://github.com/DanielDekhtyar/CS50P/assets/44679647/90dffd26-1f94-4b90-86f8-e6535bae8dd7)
+
+<br></br>
 
 ---
 
